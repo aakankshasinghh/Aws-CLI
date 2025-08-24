@@ -1,5 +1,5 @@
- **Install AWS CLI** (you already have it since you ran commands).
-**Configure AWS CLI** with your credentials and region:
+ **Install AWS CLI
+**Configure AWS CLI with your credentials and region:
 
    ```powershell
    aws configure
